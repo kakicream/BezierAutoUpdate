@@ -47,15 +47,18 @@ MonoBehaviour:
   editorData:
     _bezierPath:
       points:
+      - {x: 0, y: 0, z: 500}
+      - {x: 0, y: 0, z: 480}
+      - {x: 0, y: 0, z: 320}
+      - {x: 0, y: 0, z: 300}
+      - {x: 0, y: 0, z: 280}
+      - {x: 0, y: 0, z: 220}
+      - {x: 0, y: 0, z: 200}
+      - {x: 0, y: 0, z: 180}
+      - {x: 0, y: 0, z: 20}
       - {x: 0, y: 0, z: 0}
-      - {x: 0.67784977, y: 0, z: -0.038548797}
-      - {x: 0.98274255, y: 0, z: -0.016189605}
-      - {x: 2, y: 0, z: 0}
-      - {x: 2.2955298, y: 0, z: -0.0032622218}
-      - {x: 3.2120595, y: 0, z: -0.25738794}
-      - {x: 3.4320757, y: 0, z: -0.14737985}
       isClosed: 0
-      space: 2
+      space: 0
       controlMode: 2
       autoControlLength: 0.3
       boundsUpToDate: 0
@@ -66,9 +69,10 @@ MonoBehaviour:
       - 0
       - 0
       - 0
-      globalNormalsAngle: 0
+      - 0
+      globalNormalsAngle: 90
       flipNormals: 0
-    vertexPathUpToDate: 0
+    vertexPathUpToDate: 1
     vertexPathMaxAngleError: 0.3
     vertexPathMinVertexSpacing: 0.01
     showTransformTool: 1
@@ -78,7 +82,7 @@ MonoBehaviour:
     displayControlPoints: 1
     bezierHandleScale: 1
     globalDisplaySettingsFoldout: 1
-    keepConstantHandleSize: 0
+    keepConstantHandleSize: 1
     showNormalsInVertexMode: 0
     showBezierPathInVertexMode: 0
     showDisplayOptions: 1
