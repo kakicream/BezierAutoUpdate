@@ -57,6 +57,21 @@ MonoBehaviour:
       - {x: 0, y: 0, z: 320}
       - {x: 0, y: 0, z: 480}
       - {x: 0, y: 0, z: 500}
+      - {x: 0, y: 0, z: 520}
+      - {x: 0, y: 0, z: 780}
+      - {x: 0, y: 0, z: 800}
+      - {x: 0, y: 0, z: 820}
+      - {x: 11.774887, y: 0.014741242, z: 871.17145}
+      - {x: 30, y: 0, z: 900}
+      - {x: 41.672947, y: -0.0157862, z: 920.4133}
+      - {x: 64.497925, y: -0.375, z: 945.1267}
+      - {x: 100, y: 0, z: 960}
+      - {x: 116.90549, y: -0.1875, z: 970.5195}
+      - {x: 180, y: 0, z: 975}
+      - {x: 200, y: 0, z: 975}
+      - {x: 285.59586, y: -1.9595985, z: 973.8046}
+      - {x: 380, y: 0, z: 975}
+      - {x: 400, y: 0, z: 975}
       isClosed: 0
       space: 0
       controlMode: 2
@@ -70,9 +85,14 @@ MonoBehaviour:
       - 0
       - 0
       - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
       globalNormalsAngle: 90
       flipNormals: 0
-    vertexPathUpToDate: 1
+    vertexPathUpToDate: 0
     vertexPathMaxAngleError: 0.3
     vertexPathMinVertexSpacing: 0.01
     showTransformTool: 1
